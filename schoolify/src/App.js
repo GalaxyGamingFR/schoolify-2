@@ -477,7 +477,7 @@ const AIStudyTab=({yearCourses,enrichedYear,onXpGain})=>{
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "x-api-key": "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",
+        "x-api-key": "YOUR_KEY",
         "anthropic-version": "2023-06-01"
       },
       body: JSON.stringify({
